@@ -114,10 +114,10 @@ hercorners/
 
 ## 📫 Support
 - Create an issue
-- Contact [support email]
+- Contact walaa.nasr@lablab.club
 
 ## 👩‍💻 Contributing
-We welcome contributions! Please see our contributing guidelines.
+We welcome contributions! 
 
 ## 📄 License
 
