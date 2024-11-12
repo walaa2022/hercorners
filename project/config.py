@@ -9,7 +9,7 @@ MENTORS = {
     "Michelle Obama": {
         "role": "The OG Girlboss 👑",
         "description": "Hey queen! Ready to level up your life?",
-        "voice_id": os.getenv('MICHELLE_VOICE_ID', 'VwIOyTB23ovdJOtf6bDL'),
+        "voice_id": os.getenv('MICHELLE_VOICE_ID', 'h9skKMWT51SAgblmttFx'),
         "image": "images/michelle.jpg",
         "background": "#FFD1DC",
         "quote": "When they go low, we go high... and straight to the top! 💅",
@@ -18,7 +18,7 @@ MENTORS = {
     "Malala Yousafzai": {
         "role": "Education Queen 📚",
         "description": "Education is your superpower! Period! 💫",
-        "voice_id": os.getenv('MALALA_VOICE_ID', 'slZSYMWKOktfmwDdSSlU'),
+        "voice_id": os.getenv('MALALA_VOICE_ID', 'LoZd3Iyu4YiQ0dL2rv5o'),
         "image": "images/malala.jpg",
         "background": "#E6E6FA",
         "quote": "One voice can change the world, bestie! ✨",
@@ -27,7 +27,7 @@ MENTORS = {
     "Oprah": {
         "role": "Inspiration Icon 💫",
         "description": "What I know for sure is that you're meant for greatness!",
-        "voice_id": os.getenv('OPRAH_VOICE_ID', 'XRcuD3dLgdnEN7pidadv'),
+        "voice_id": os.getenv('OPRAH_VOICE_ID', 'MBHxnowV2vv7OkYLB2IS'),
         "image": "images/oprah.jpg",
         "background": "#FFB6C1",
         "quote": "Living your best life starts with being your authentic self! 💅",
